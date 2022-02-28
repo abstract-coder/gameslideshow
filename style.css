@@ -1,0 +1,26 @@
+body
+{
+    text-align: center;
+}
+
+#app {
+    background-color: aliceblue;
+}
+
+#slider
+{
+    background-color: rgb(255, 168, 243);
+}
+#slider img{
+    height: 300px;
+    margin-top: 30px;
+}
+#slider2
+{
+    background-color: rgb(246, 255, 168);
+}
+#slider2 img{
+    height: 300px;
+    margin-top: 30px;
+}
+
